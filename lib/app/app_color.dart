@@ -6,4 +6,5 @@ abstract class AppColor {
   static const Color whiteColor = Colors.white;
   static const Color backgrColor = Color.fromARGB(255, 250, 246, 246);
   static const Color black = Colors.black;
+  static const Color white = Colors.white;
 }
